@@ -1,4 +1,4 @@
-TOPDIR:=${K2P}
+TOPDIR:=${CURDIR}
 SOURCE_DIR:=$(TOPDIR)/trunk
 TOOLCHAIN_DIR:=$(TOPDIR)/toolchain-mipsel
 TOOLCHAIN_ROOT:=$(TOOLCHAIN_DIR)/toolchain-4.4.x
